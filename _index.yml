@@ -35,45 +35,45 @@ product-family:
     tags: all
   - title: Virtualisierungslösungen
     icon: "./media/icon_virtualization_ieops-2280.png"
-    url: netapp-solutions-virtualization/
+    url: "../netapp-solutions-virtualization/index.html"
     summary: Lösungen zur Bereitstellung einer agilen, zuverlässigen und effizienten
       Dateninfrastruktur in virtualisierten Umgebungen.
     tags: all,automation,ha,workloads
   - title: Lösungen für künstliche Intelligenz
     icon: "./media/icon_artificial_intelligence_ieops-2282.png"
-    url: netapp-solutions-ai/
+    url: "../netapp-solutions-ai/index.html"
     summary: Lösungen zur Verbesserung der Leistung, Produktivität und Sicherung Ihrer
       Daten.
     tags: all,automation,workloads
   - title: Öffentliche und hybride Cloud-Lösungen
     icon: "./media/icon_public_hybrid_ieops-2281.png"
-    url: netapp-solutions-cloud/
+    url: "../netapp-solutions-cloud/index.html"
     summary: Lösungen zur Vereinfachung der Workload-Mobilität, Bereitstellung von
       Leistung auf Unternehmensniveau und Vereinheitlichung der Datenverwaltung in
       lokalen und Multicloud-Umgebungen.
     tags: all,ha,protection,workloads
   - title: Datenbanklösungen
     icon: "./media/icon_databases_ieops-2283.png"
-    url: netapp-solutions-databases/
+    url: "../netapp-solutions-databases/index.html"
     summary: Lösungen, um das volle Potenzial von NetApp Storage in den wichtigsten
       Unternehmensdatenbanken auszuschöpfen.
     tags: all,entapps,ha,protection,workloads
   - title: SAP- und SAP HANA-Lösungen
     icon: "./media/icon_sap_hana_ieops-2285.png"
-    url: netapp-solutions-sap/
+    url: "../netapp-solutions-sap/index.html"
     summary: Lösungen zur Maximierung der Leistung und Effizienz Ihrer SAP- und SAP
       HANA-Umgebungen.
     tags: all,entapps,ha,protection,workloads
   - title: Containerlösungen
     icon: "./media/icon_containers_ieops-2284.png"
-    url: netapp-solutions-containers/
+    url: "../netapp-solutions-containers/index.html"
     summary: Lösungen zur Vereinfachung und Skalierung von Kubernetes-Umgebungen mit
       validierten Bereitstellungen und nahtloser Integration mit NetApp Speicherverwaltungssystemen
       und -Software.
     tags: all,automation,devops,workloads
   - title: Datenmanagementlösungen
     icon: "./media/icon_analytics_ieops-2283.png"
-    url: netapp-solutions-dataops/
+    url: "../netapp-solutions-dataops/index.html"
     summary: Lösungen zur Verwaltung Ihrer Speicher- und Datendienste vor Ort und
       in Clouds.
     tags: all,automation,protection,workloads
