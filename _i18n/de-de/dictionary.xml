@@ -129,12 +129,6 @@
   <block id="895589bd49a02b9781b175f68aba23e4" category="cell"><block ref="895589bd49a02b9781b175f68aba23e4" category="inline-link-macro-rx"></block></block>
   <block id="c069b35ac4a7aee0a4a3d5d757c06779" category="inline-link-macro">Migrieren Sie VMware-VMs zu AWS mit Amazon EC2 und Amazon FSx ONTAP iSCSI-Protokoll</block>
   <block id="9bbb03cd8f98e3d6d2239a58c4803f4e" category="cell"><block ref="9bbb03cd8f98e3d6d2239a58c4803f4e" category="inline-link-macro-rx"></block></block>
-  <block id="8d7efa937e97b1a8187ff8f122d9732a" category="inline-link-macro">Speicher für Cloud-basiert VMware-Bereitstellungen optimieren</block>
-  <block id="5a6bd3a9e0048284caf2b5f521d90959" category="cell"><block ref="5a6bd3a9e0048284caf2b5f521d90959" category="inline-link-macro-rx"></block></block>
-  <block id="00d07ce14f227693b9dabba2f52b53a5" category="inline-link-macro">Starten Sie mit Azure VMware Solution mithilfe von NetApp-basierten Cloud-Angeboten</block>
-  <block id="ac66988ead29ba5f4ed32ec3894527e7" category="cell"><block ref="ac66988ead29ba5f4ed32ec3894527e7" category="inline-link-macro-rx"></block></block>
-  <block id="14d00863ef683631706683292e1e1b3c" category="inline-link-macro">Konfigurieren Sie Hybrid Cloud mit FSx ONTAP und VMware Cloud on AWS SDDC mit VMware HCX</block>
-  <block id="e2d970cd6feb419cd8796624bacf677d" category="cell"><block ref="e2d970cd6feb419cd8796624bacf677d" category="inline-link-macro-rx"></block></block>
   <block id="2cd9dbbc556004ec4c63b9db15995320" category="inline-link-macro">Google Cloud NetApp Volumes Datastore-Unterstützung für Google Cloud VMware Engine (NetApp)</block>
   <block id="81d8e8f3d71b597f33ac08980d0f1c96" category="cell"><block ref="81d8e8f3d71b597f33ac08980d0f1c96" category="inline-link-macro-rx"></block></block>
   <block id="ad2161f671cbb71fdc30f584cb59d2d9" category="inline-link-macro">Wie man NetApp Volumes als Datenspeicher für Google Cloud VMware Engine (Google) verwendet</block>
@@ -176,7 +170,22 @@
   <block id="49c97f7afaf1bc38d2a4e4723d0e7a1f" category="paragraph">Lesen Sie die folgenden Blogbeiträge, die praktische Anleitungen und Best Practices für die Integration von NetApp ONTAP Storage in eine Vielzahl von Lösungen bieten.</block>
   <block id="f1e98a26384a5e804c97236b60cebfae" category="open-title">Alle Blogs</block>
   <block id="310dd198f252abd6848253f118de12ba" category="open-title">Öffentliche und hybride Cloud</block>
-  <block id="10d42b4bab4fd3114da1e1eae0994d36" category="open-title">SAP und SAP HAHA</block>
   <block id="637289fda08b4d4913dfdd067cea3623" category="sidebar">Demo und Blogs</block>
   <block id="1afa3402452aa41c89bab41b818e82ae" category="sidebar">Sehen Sie sich die Sammlung technischer Demos und Blogbeiträge für eine Vielzahl von NetAp Lösungen an.</block>
+  <block id="9881dd516c35da64f6e230f4abb8109b" category="inline-link-macro">MCP vs. Agentenfähigkeiten – Was sind die Unterschiede und warum sind sie wichtig für NetApp?</block>
+  <block id="5782adfa8e6bfb602d1e64a62014a4ab" category="cell"><block ref="5782adfa8e6bfb602d1e64a62014a4ab" category="inline-link-macro-rx"></block></block>
+  <block id="dac08413005c94e598fecde431b78a76" category="inline-link-macro">KV-Cache-Offloading mit vLLM, LMCache und ONTAP pNFS</block>
+  <block id="2b655854a44234361f1573946dcacac7" category="cell"><block ref="2b655854a44234361f1573946dcacac7" category="inline-link-macro-rx"></block></block>
+  <block id="e8404df32f316688f02ccd281fffe5ce" category="inline-link-macro">Azure NetApp Files – Vereinfachung von VMware-Workloads auf Azure</block>
+  <block id="19603292180fad21e0a39a82c1048c57" category="cell"><block ref="19603292180fad21e0a39a82c1048c57" category="inline-link-macro-rx"></block></block>
+  <block id="dc32da64b7845bbbf4827a1513cd8daa" category="inline-link-macro">Konfigurieren Sie Hybrid Cloud mit FSx für NetApp ONTAP und VMware Cloud on AWS SDDC mithilfe von VMware HCX</block>
+  <block id="5cba3298e9dabad1b3b3e8b34b0adee5" category="cell"><block ref="5cba3298e9dabad1b3b3e8b34b0adee5" category="inline-link-macro-rx"></block></block>
+  <block id="5a67ac64edd4c6e9c88a89200b48644a" category="inline-link-macro">Senkung der Datenbewegungskosten mit SQL Server 2025 PolyBase und Amazon FSx for NetApp ONTAP S3-Zugriffspunkten</block>
+  <block id="d83dd286889451ed5a92d1cf454de797" category="cell"><block ref="d83dd286889451ed5a92d1cf454de797" category="inline-link-macro-rx"></block></block>
+  <block id="c75a85d595077174a08b63443962702f" category="inline-link-macro">Senkung der Kosten für die Datenübertragung mit SQL Server 2025 PolyBase und Amazon FSx for NetApp ONTAP S3-Zugriffspunkten (Technischer Deep-Dive)</block>
+  <block id="6042dee53b0df06b7b9f0bd4921c284d" category="cell"><block ref="6042dee53b0df06b7b9f0bd4921c284d" category="inline-link-macro-rx"></block></block>
+  <block id="7196e49847ab5f933847e986b4bb66eb" category="inline-link-macro">Nutzung von SQL Server Always On FCI mit FSx für NetApp ONTAP SnapMirror</block>
+  <block id="fbe145ebd7e668a4f13eb39934772ceb" category="cell"><block ref="fbe145ebd7e668a4f13eb39934772ceb" category="inline-link-macro-rx"></block></block>
+  <block id="c2a9a8d2de43500438acc1d122409393" category="inline-link-macro">Datenschutz SQL Server Always On FCIs mit FSx für NetApp ONTAP und SnapMirror</block>
+  <block id="25efac1fab3ae907689cb883e77648b1" category="cell"><block ref="25efac1fab3ae907689cb883e77648b1" category="inline-link-macro-rx"></block></block>
 </blocks>
