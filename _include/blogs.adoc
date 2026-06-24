@@ -7,6 +7,9 @@
 | *Kategorie* | *Blogtitel* 
 
 
+| Datenplattform | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Architecting-an-Enterprise-Backup-and-Disaster-Recovery-for-Cloudera-with-NetApp/ba-p/467801["Architektur einer Enterprise Backup und Disaster Recovery Lösung für Cloudera mit NetApp"] 
+
+
 | KI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/KV-cache-offloading-tuning-for-long-context/ba-p/467594["KV-Cache-Offloading-Optimierung für lange Kontexte"] 
 
 
