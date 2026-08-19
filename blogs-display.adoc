@@ -25,6 +25,9 @@ Lesen Sie die folgenden Blogbeiträge, die praktische Anleitungen und Best Pract
 | *Kategorie* | *Blogtitel* 
 
 
+| KI | link:https://community.netapp.com/community/discussion/468325/comparing-kv-cache-offloading-frameworks-for-vllm["Vergleich von KV Cache Offloading Frameworks für vLLM"] 
+
+
 | Datenplattform | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Architecting-an-Enterprise-Backup-and-Disaster-Recovery-for-Cloudera-with-NetApp/ba-p/467801["Architektur einer Enterprise Backup und Disaster Recovery Lösung für Cloudera mit NetApp"] 
 
 
@@ -103,7 +106,7 @@ Lesen Sie die folgenden Blogbeiträge, die praktische Anleitungen und Best Pract
 | Virtualisierung | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/NetApp-and-VMware-Better-than-ever/ba-p/445780["NetApp and VMware – besser als je zuvor"] 
 
 
-| KI | link:++https://www.netapp.com/blog/#t=Blogs&sort=%40publish_date_mktg%20descending&layout=card&f:@facet_language_mktg=["Englisch"]&f:@facet_soultion_mktg=[AI,Analytics,artificial-intelligence]++[KI-Blogs auf NetApp.com] 
+| KI | link:https://www.netapp.com/blog/#q=AI&t=Blogs&sort=%40publish_date_mktg%20descending&layout=card&f:@language=English["KI-Blogs auf NetApp.com"] 
 
 
 | KI | link:https://netapp.io/category/ai-ml/["KI-Blogs auf thePub"] 
@@ -227,6 +230,9 @@ Lesen Sie die folgenden Blogbeiträge, die praktische Anleitungen und Best Pract
 | *Kategorie* | *Blogtitel* 
 
 
+| KI | link:https://community.netapp.com/community/discussion/468325/comparing-kv-cache-offloading-frameworks-for-vllm["Vergleich von KV Cache Offloading Frameworks für vLLM"] 
+
+
 | KI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/KV-cache-offloading-tuning-for-long-context/ba-p/467594["KV-Cache-Offloading-Optimierung für lange Kontexte"] 
 
 
@@ -266,7 +272,7 @@ Lesen Sie die folgenden Blogbeiträge, die praktische Anleitungen und Best Pract
 | KI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/KV-cache-offloading-exploring-the-benefits-of-shared-storage/ba-p/465230["KV-Cache-Offloading – die Vorteile von gemeinsam genutztem Speicher erkunden"] 
 
 
-| KI | link:++https://www.netapp.com/blog/#t=Blogs&sort=%40publish_date_mktg%20descending&layout=card&f:@facet_language_mktg=["Englisch"]&f:@facet_soultion_mktg=[AI,Analytics,artificial-intelligence]++[KI-Blogs auf NetApp.com] 
+| KI | link:https://www.netapp.com/blog/#q=AI&t=Blogs&sort=%40publish_date_mktg%20descending&layout=card&f:@language=English["KI-Blogs auf NetApp.com"] 
 
 
 | KI | link:https://netapp.io/category/ai-ml/["KI-Blogs auf thePub"] 
